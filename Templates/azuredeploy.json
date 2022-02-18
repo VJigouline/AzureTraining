@@ -32,5 +32,10 @@
             "tier": "Standard"
         }
     }],
-    "outputs": {}
+    "outputs": {
+       "storageEndpoint": {
+           "type": "object",
+           "value": "[reference('mytrainingstorage745').primaryEndpoints]"
+       }
+   }
 }
