@@ -21,3 +21,13 @@ _**Set-AzDefault** -ResourceGroupName &lt;name&gt;_ - set default resource group
 ## CLI commands 
 
 _**az keyvault secret show** --name &lt;name&gt; --vault-name &lt;vault-name&gt; --query value --output tsv_ - retrieve password from secure vault
+_**az vm create** &lt;parameters&gt; - create virtual machine
+_**az vm extension set** &lt;parameters&gt; - run extension set
+_**az vm list-ip-addresses** &lt;parameters&gt; - list IP addresses
+_**az vm list-ip-addresses** &lt;parameters&gt; - list network security groups
+_**az network nsg rule list** &lt;parameters&gt; - list network security group list
+_**az network nsg rule list** &lt;parameters&gt; - create network security group
+
+## To review
+
+Microsoft Intune https://docs.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune
