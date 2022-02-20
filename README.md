@@ -36,6 +36,8 @@ Implement resource management security in Azure https://docs.microsoft.com/en-gb
 Prerequisites for Azure administrators https://docs.microsoft.com/en-gb/learn/paths/azure-administrator-prerequisites/
 Architect infrastructure operations in Azure https://docs.microsoft.com/en-gb/learn/paths/architect-infrastructure-operations/
 Learn how Microsoft supports cloud adoption as part of a cybersecurity solution https://docs.microsoft.com/en-gb/learn/paths/secure-cloud-adoption-cybersecurity/
+Plan and manage your Azure costs https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/
 
 ## Things to remember
+
 Accelerate your cloud adoption journey by using the Cloud Adoption Framework for Azure https://docs.microsoft.com/en-gb/learn/modules/build-cloud-governance-strategy-azure/9-accelerate-cloud-adoption-framework
