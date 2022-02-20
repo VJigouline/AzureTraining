@@ -37,6 +37,12 @@ Prerequisites for Azure administrators https://docs.microsoft.com/en-gb/learn/pa
 Architect infrastructure operations in Azure https://docs.microsoft.com/en-gb/learn/paths/architect-infrastructure-operations/
 Learn how Microsoft supports cloud adoption as part of a cybersecurity solution https://docs.microsoft.com/en-gb/learn/paths/secure-cloud-adoption-cybersecurity/
 Plan and manage your Azure costs https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/
+Manage resources in Azure https://docs.microsoft.com/en-gb/learn/paths/manage-resources-in-azure/
+AZ-400: Facilitate communication and collaboration https://docs.microsoft.com/en-gb/learn/paths/az-400-facilitate-communication-collaboration/
+Microsoft Azure Fundamentals: Describe Azure cost management and service level agreements https://docs.microsoft.com/en-gb/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/
+Azure for Researchers part 2: Cloud Security and Cost Management https://docs.microsoft.com/en-gb/learn/paths/researcher-cloud-security-cost-management/
+Control Azure spending and manage bills with Azure Cost Management + Billing https://docs.microsoft.com/en-gb/learn/paths/control-spending-manage-bills/
+Manage identities and governance for Azure administrators https://docs.microsoft.com/en-gb/learn/paths/azure-administrator-manage-identities-governance/
 
 ## Things to remember
 
