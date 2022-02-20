@@ -34,4 +34,4 @@ Microsoft Intune https://docs.microsoft.com/en-us/mem/intune/fundamentals/what-i
 AZ-400: Develop a security and compliance plan https://docs.microsoft.com/en-gb/learn/paths/az-400-develop-security-compliance-plan/
 Implement resource management security in Azure https://docs.microsoft.com/en-gb/learn/paths/implement-resource-mgmt-security/
 Prerequisites for Azure administrators https://docs.microsoft.com/en-gb/learn/paths/azure-administrator-prerequisites/
-
+Architect infrastructure operations in Azure https://docs.microsoft.com/en-gb/learn/paths/architect-infrastructure-operations/
