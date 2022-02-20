@@ -32,3 +32,6 @@ _**az network nsg rule list** &lt;parameters&gt; - create network security group
 
 Microsoft Intune https://docs.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune
 AZ-400: Develop a security and compliance plan https://docs.microsoft.com/en-gb/learn/paths/az-400-develop-security-compliance-plan/
+Implement resource management security in Azure https://docs.microsoft.com/en-gb/learn/paths/implement-resource-mgmt-security/
+
+
