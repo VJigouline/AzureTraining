@@ -47,3 +47,6 @@ Manage identities and governance for Azure administrators https://docs.microsoft
 ## Things to remember
 
 Accelerate your cloud adoption journey by using the Cloud Adoption Framework for Azure https://docs.microsoft.com/en-gb/learn/modules/build-cloud-governance-strategy-azure/9-accelerate-cloud-adoption-framework
+
+## Useful tools
+Total Cost of Ownership (TCO) calculator https://azure.microsoft.com/en-gb/pricing/tco/calculator/
