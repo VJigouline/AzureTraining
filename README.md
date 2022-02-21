@@ -58,4 +58,4 @@ Total Cost of Ownership (TCO) calculator https://azure.microsoft.com/en-gb/prici
 
 ## To be continued...
 https://docs.microsoft.com/en-us/learn/paths/az-104-manage-identities-governance/
-https://docs.microsoft.com/en-us/learn/modules/configure-user-group-accounts/5-create
+https://docs.microsoft.com/en-gb/learn/modules/configure-subscriptions/
