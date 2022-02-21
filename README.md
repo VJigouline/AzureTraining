@@ -55,3 +55,7 @@ Accelerate your cloud adoption journey by using the Cloud Adoption Framework for
 
 ## Useful tools
 Total Cost of Ownership (TCO) calculator https://azure.microsoft.com/en-gb/pricing/tco/calculator/  
+
+## To be continued...
+https://docs.microsoft.com/en-us/learn/paths/az-104-manage-identities-governance/
+https://docs.microsoft.com/en-us/learn/modules/configure-user-group-accounts/5-create
