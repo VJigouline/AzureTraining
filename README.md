@@ -22,6 +22,8 @@ _**Connect-AzAccount**_ - connect to Azure account
 _**Get-AzSubscription**_ - get available Azure subscriptions  
 _**New-AzResourceGroupDeployment** -Name &lt;deployment_name&gt; -TemplateFile &lt;template_name&gt; -storageName &lt;storage_name&gt;_ - deploy Azure resource group through template  
 _**Set-AzDefault** -ResourceGroupName &lt;name&gt;_ - set default resource group  
+_**New-AzureADUser** - &lt;parameters&gt; - create new user  
+_**Remove-AzureADUser** - &lt;parameters&gt; - delete user  
 
 ## CLI commands
 
@@ -32,6 +34,8 @@ _**az vm list-ip-addresses** &lt;parameters&gt; - list IP addresses
 _**az vm list-ip-addresses** &lt;parameters&gt; - list network security groups  
 _**az network nsg rule list** &lt;parameters&gt; - list network security group list  
 _**az network nsg rule list** &lt;parameters&gt; - create network security group  
+_**az ad user create** &lt;parameters&gt; - create new user  
+_**az ad user delete** &lt;parameters&gt; - delete new user  
 
 ## To review
 
@@ -56,8 +60,9 @@ Accelerate your cloud adoption journey by using the Cloud Adoption Framework for
 ## Useful tools
 
 Total Cost of Ownership (TCO) calculator <https://azure.microsoft.com/en-gb/pricing/tco/calculator/>  
+Pricing calculator <https://azure.microsoft.com/en-gb/pricing/calculator/>  
 
 ## Next lesson
 
 <https://docs.microsoft.com/en-us/learn/paths/az-104-manage-identities-governance/>
-<https://docs.microsoft.com/en-gb/learn/modules/configure-subscriptions/>
+<https://docs.microsoft.com/en-gb/learn/modules/secure-azure-resources-with-rbac/>
