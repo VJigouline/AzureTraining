@@ -8,13 +8,13 @@ This repository is to store different resources acquired during Azure training c
 
 ## Exams
 
-**Exam AZ-104: Microsoft Azure Administrator** - https://docs.microsoft.com/en-gb/learn/certifications/exams/az-104
+**Exam AZ-104: Microsoft Azure Administrator** - <https://docs.microsoft.com/en-gb/learn/certifications/exams/az-104>
 
 ## Training courses
 
-**Fundamentals of Bicep** - https://docs.microsoft.com/en-gb/learn/paths/fundamentals-bicep/  
+**Fundamentals of Bicep** - <https://docs.microsoft.com/en-gb/learn/paths/fundamentals-bicep/>  
 New language to specify Azure resources instead of JSON templates.
-**AZ-104: Prerequisites for Azure administrators** - https://docs.microsoft.com/en-gb/learn/paths/az-104-administrator-prerequisites/
+**AZ-104: Prerequisites for Azure administrators** - <https://docs.microsoft.com/en-gb/learn/paths/az-104-administrator-prerequisites/>
 
 ## PowerShell commands
 
@@ -35,27 +35,29 @@ _**az network nsg rule list** &lt;parameters&gt; - create network security group
 
 ## To review
 
-Microsoft Intune https://docs.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune 
-AZ-400: Develop a security and compliance plan https://docs.microsoft.com/en-gb/learn/paths/az-400-develop-security-compliance-plan/  
-Implement resource management security in Azure https://docs.microsoft.com/en-gb/learn/paths/implement-resource-mgmt-security/  
-Prerequisites for Azure administrators https://docs.microsoft.com/en-gb/learn/paths/azure-administrator-prerequisites/  
-Architect infrastructure operations in Azure https://docs.microsoft.com/en-gb/learn/paths/architect-infrastructure-operations/  
-Learn how Microsoft supports cloud adoption as part of a cybersecurity solution https://docs.microsoft.com/en-gb/learn/paths/secure-cloud-adoption-cybersecurity/  
-Plan and manage your Azure costs https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/  
-Manage resources in Azure https://docs.microsoft.com/en-gb/learn/paths/manage-resources-in-azure/  
-AZ-400: Facilitate communication and collaboration https://docs.microsoft.com/en-gb/learn/paths/az-400-facilitate-communication-collaboration/  
-Microsoft Azure Fundamentals: Describe Azure cost management and service level agreements https://docs.microsoft.com/en-gb/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/  
-Azure for Researchers part 2: Cloud Security and Cost Management https://docs.microsoft.com/en-gb/learn/paths/researcher-cloud-security-cost-management/  
-Control Azure spending and manage bills with Azure Cost Management + Billing https://docs.microsoft.com/en-gb/learn/paths/control-spending-manage-bills/  
-Manage identities and governance for Azure administrators https://docs.microsoft.com/en-gb/learn/paths/azure-administrator-manage-identities-governance/  
+Microsoft Intune <https://docs.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune>
+AZ-400: Develop a security and compliance plan <https://docs.microsoft.com/en-gb/learn/paths/az-400-develop-security-compliance-plan/>  
+Implement resource management security in Azure <https://docs.microsoft.com/en-gb/learn/paths/implement-resource-mgmt-security/>  
+Prerequisites for Azure administrators <https://docs.microsoft.com/en-gb/learn/paths/azure-administrator-prerequisites/>  
+Architect infrastructure operations in Azure <https://docs.microsoft.com/en-gb/learn/paths/architect-infrastructure-operations/>  
+Learn how Microsoft supports cloud adoption as part of a cybersecurity solution <https://docs.microsoft.com/en-gb/learn/paths/secure-cloud-adoption-cybersecurity/>  
+Plan and manage your Azure costs <https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/>  
+Manage resources in Azure <https://docs.microsoft.com/en-gb/learn/paths/manage-resources-in-azure/>  
+AZ-400: Facilitate communication and collaboration <https://docs.microsoft.com/en-gb/learn/paths/az-400-facilitate-communication-collaboration/>  
+Microsoft Azure Fundamentals: Describe Azure cost management and service level agreements <https://docs.microsoft.com/en-gb/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/>  
+Azure for Researchers part 2: Cloud Security and Cost Management <https://docs.microsoft.com/en-gb/learn/paths/researcher-cloud-security-cost-management/>  
+Control Azure spending and manage bills with Azure Cost Management + Billing <https://docs.microsoft.com/en-gb/learn/paths/control-spending-manage-bills/>  
+Manage identities and governance for Azure administrators <https://docs.microsoft.com/en-gb/learn/paths/azure-administrator-manage-identities-governance/>  
 
 ## Things to remember
 
-Accelerate your cloud adoption journey by using the Cloud Adoption Framework for Azure https://docs.microsoft.com/en-gb/learn/modules/build-cloud-governance-strategy-azure/9-accelerate-cloud-adoption-framework  
+Accelerate your cloud adoption journey by using the Cloud Adoption Framework for Azure <https://docs.microsoft.com/en-gb/learn/modules/build-cloud-governance-strategy-azure/9-accelerate-cloud-adoption-framework>  
 
 ## Useful tools
-Total Cost of Ownership (TCO) calculator https://azure.microsoft.com/en-gb/pricing/tco/calculator/  
 
-## To be continued...
-https://docs.microsoft.com/en-us/learn/paths/az-104-manage-identities-governance/
-https://docs.microsoft.com/en-gb/learn/modules/configure-subscriptions/
+Total Cost of Ownership (TCO) calculator <https://azure.microsoft.com/en-gb/pricing/tco/calculator/>  
+
+## Next lesson
+
+<https://docs.microsoft.com/en-us/learn/paths/az-104-manage-identities-governance/>
+<https://docs.microsoft.com/en-gb/learn/modules/configure-subscriptions/>
