@@ -6,6 +6,10 @@ Scripts, templates stored during Azure training courses
 
 This repository is to store different resources acquired during Azure training courses for future review. A lot of garbage. Feel free to use them if you find them useful.
 
+## Exams
+
+**Exam AZ-104: Microsoft Azure Administrator** - https://docs.microsoft.com/en-gb/learn/certifications/exams/az-104
+
 ## Training courses
 
 **Fundamentals of Bicep** - https://docs.microsoft.com/en-gb/learn/paths/fundamentals-bicep/  
