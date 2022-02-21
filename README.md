@@ -10,6 +10,7 @@ This repository is to store different resources acquired during Azure training c
 
 **Fundamentals of Bicep** - https://docs.microsoft.com/en-gb/learn/paths/fundamentals-bicep/  
 New language to specify Azure resources instead of JSON templates.
+**AZ-104: Prerequisites for Azure administrators** - https://docs.microsoft.com/en-gb/learn/paths/az-104-administrator-prerequisites/
 
 ## PowerShell commands
 
